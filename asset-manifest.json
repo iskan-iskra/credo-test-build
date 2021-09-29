@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9ca4ec62.chunk.css",
+    "main.js": "./static/js/main.da25844f.chunk.js",
+    "main.js.map": "./static/js/main.da25844f.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8b2fcfd3.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8b2fcfd3.js.map",
+    "static/js/2.9ada8709.chunk.js": "./static/js/2.9ada8709.chunk.js",
+    "static/js/2.9ada8709.chunk.js.map": "./static/js/2.9ada8709.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.9ca4ec62.chunk.css.map": "./static/css/main.9ca4ec62.chunk.css.map",
+    "static/js/2.9ada8709.chunk.js.LICENSE.txt": "./static/js/2.9ada8709.chunk.js.LICENSE.txt",
+    "static/media/buttons.module.scss": "./static/media/Login.7f7876d4.svg",
+    "static/media/credo.3a22b264.png": "./static/media/credo.3a22b264.png",
+    "static/media/inputs.module.scss": "./static/media/searchicon.d39d7a73.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b2fcfd3.js",
+    "static/js/2.9ada8709.chunk.js",
+    "static/css/main.9ca4ec62.chunk.css",
+    "static/js/main.da25844f.chunk.js"
+  ]
+}
